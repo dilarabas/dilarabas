@@ -7,7 +7,6 @@
      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="50" height="50"/> 
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="55" height="50"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="55" height="50"/>
-     <img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/github_logo_icon_229278.png" alt="github" width="55" height="55"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="github" width="30" height="45"/>
      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="45" height="55"/>
