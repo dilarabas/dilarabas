@@ -4,7 +4,7 @@
 
 ## 🚀About Me
 
-I have a strong interest and motivation for developing user experience-focused, scalable, and sustainable applications in the field of web technologies. I take an active role in both frontend and backend processes, delivering modern solutions tailored to project needs. I prioritize code quality, performance, and sustainability while continuously improving myself by staying up to date with emerging technologies.
+I develop user-focused, scalable, and sustainable applications using web technologies. Actively involved in both frontend and backend processes, I prioritize code quality, performance, and sustainability while keeping up with emerging technologies.
 
 ---
 
