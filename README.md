@@ -1,24 +1,40 @@
-<h1 align="center">Hi , I'm Dilara Baş 👋 </h1>
+<h1 align="center">Hello 👋, I'm Dilara</h1>
+<p align="center">Full Stack Developer | UI/UX Designer</p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-   <p align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="55" height="55"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="html5" width="50" height="50"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="50" height="50"/> 
-     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="55" height="50"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="55" height="50"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="github" width="30" height="45"/>
-     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="45" height="55"/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg" alt="laravel" width="65" height="58"/>
-     <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="C#" width="65" height="58"/>
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      
-    
+## 🚀About Me
 
-     
+I have a strong interest and motivation for developing user experience-focused, scalable, and sustainable applications in the field of web technologies. I take an active role in both frontend and backend processes, delivering modern solutions tailored to project needs. I prioritize code quality, performance, and sustainability while continuously improving myself by staying up to date with emerging technologies.
+
+---
+
+- 🔭 I’m currently working on **React Projects**
+
+---
+
+<h3>🛠️ Programming Languages & Tools</h3>
+
+<p>  
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+---
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilarabas&layout=compact&theme=github_light" alt="Top Languages" width="30%" />
+</p>
+
 
 
 <!--
